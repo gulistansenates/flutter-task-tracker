@@ -29,10 +29,10 @@ This project was originally forked and then upgraded for modern compatibility:
 
 ## 📷 Screenshots
 
-### 🏠 Home Screen  
+### 🏠 Create Task Screen
 ![Screenshot 1](assets/Sc1.png)
 
-### ✅ Task Completed Screen  
+### ✅ Task List Screen  
 ![Screenshot 2](assets/Sc2.png)
 
 ---
