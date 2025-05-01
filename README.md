@@ -42,13 +42,6 @@ This project was originally forked and then upgraded for modern compatibility:
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/flutter-task-tracker.git
-Get packages:
-
-bash
-Kopyala
-Düzenle
-flutter pub get
-Run the app:
 
 💬 Notes
 This app is ideal for learning purposes and personal task tracking.
