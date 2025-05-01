@@ -15,7 +15,7 @@ This project is based on a fork of an older to-do app, and has been updated to w
 
 ---
 
-## 🛠️ What's Updated
+## 🛠 What's Updated
 
 This project was originally forked and then upgraded for modern compatibility:
 
@@ -50,10 +50,6 @@ Düzenle
 flutter pub get
 Run the app:
 
-bash
-Kopyala
-Düzenle
-flutter run
 💬 Notes
 This app is ideal for learning purposes and personal task tracking.
 Feel free to improve it or open a pull request if you find bugs or have new ideas!
