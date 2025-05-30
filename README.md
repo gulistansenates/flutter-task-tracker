@@ -24,10 +24,10 @@ This project was originally forked and then upgraded for modern compatibility:
 ## 📷 Screenshots
 
 ### 🏠 Create Task Screen
-![Screenshot 1](assets/Sc1.png)
+<img src="assets/Sc1.png" alt="Screen" width="250"/>
 
 ### ✅ Task List Screen  
-![Screenshot 2](assets/Sc2.png)
+<img src="assets/Sc2.png" alt="Screen" width="250"/>
 
 ## 📦 Getting Started
 
